@@ -1,3 +1,5 @@
+<img>https://media.licdn.com/dms/image/v2/C4E12AQEubD4Jma-ThQ/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1566231343777?e=2147483647&v=beta&t=XKz4z8JqDUFfmAVUnLDi8QaxYqPzvU1CF9vMta8l_eY</img>
+
 <h1 align="center">Hi 👋, I'm Larissa Alves</h1>
 <h3 align="center">A passionate full-stack developer from Brazil</h3>
 
